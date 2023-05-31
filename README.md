@@ -1,2 +1,2 @@
-# ADiVus
+# ADiVuS
 Active Directory Vulnerable System

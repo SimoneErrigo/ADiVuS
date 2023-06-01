@@ -23,7 +23,7 @@ Il laboratorio ADiVuS può essere configurato in due modi:
 
 1. **Configurazione manuale**: Puoi seguire le procedure fornite nel repository per creare il laboratorio da zero. Le istruzioni passo-passo ti guideranno attraverso il processo di configurazione delle macchine virtuali e delle vulnerabilità intenzionali.
 
-2. **Scarica il laboratorio pre-configurato**: Se preferisci risparmiare tempo, puoi scaricare il laboratorio già configurato dal link bit.ly/3qfIUUF. In questo caso, sarai in grado di avviare il laboratorio immediatamente senza dover eseguire la configurazione manuale, ma semplicemente importando le macchine in un software di virtualizzazione. È consigliato l'uso di VMware. Inoltre nel caso in cui gli indirizzi di rete sono diversi, dovrai cambiare ed adattare le configurazioni di rete in base alle tue esigenze.
+2. **Scarica il laboratorio pre-configurato**: Se preferisci risparmiare tempo, puoi scaricare il laboratorio già configurato dal link https://bit.ly/3qfIUUF. In questo caso, sarai in grado di avviare il laboratorio immediatamente senza dover eseguire la configurazione manuale, ma semplicemente importando le macchine in un software di virtualizzazione. È consigliato l'uso di VMware. Inoltre nel caso in cui gli indirizzi di rete sono diversi, dovrai cambiare ed adattare le configurazioni di rete in base alle tue esigenze.
 
 3. **Requisiti funzionali**: Tutte e tre le macchine appartenenti ad Active Directory sono costituite dai requisiti minimi di:
   * 2 core

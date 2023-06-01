@@ -26,9 +26,9 @@ Il laboratorio ADiVuS può essere configurato in due modi:
 2. **Scarica il laboratorio pre-configurato**: Se preferisci risparmiare tempo, puoi scaricare il laboratorio già configurato dal link bit.ly/3qfIUUF. In questo caso, sarai in grado di avviare il laboratorio immediatamente senza dover eseguire la configurazione manuale, ma semplicemente importando le macchine in un software di virtualizzazione. È consigliato l'uso di VMware. Inoltre nel caso in cui gli indirizzi di rete sono diversi, dovrai cambiare ed adattare le configurazioni di rete in base alle tue esigenze.
 
 3. **Requisiti funzionali**: Tutte e tre le macchine appartenenti ad Active Directory sono costituite dai requisiti minimi di:
-* 2 core
-* 2 GB di RAM
-* 60 GB di spazio di archiviazione
+  * 2 core
+  * 2 GB di RAM
+  * 60 GB di spazio di archiviazione
 È possibile adattare le caratteristiche delle macchine in base alla disponibilità dell'hardware utilizzato. Si consiglia l'esecuzione delle tre macchine destinate all'ambiente Active Directory in un host separato per la macchina utilizzata per l'attacco.
 È consigliato usare Kali Linux per attaccare l'ambiente in quanto dispone di molti strumenti utilizzati per l'attacco già preinstallati.
 
